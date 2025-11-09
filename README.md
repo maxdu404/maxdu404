@@ -6,17 +6,16 @@ I’m a developer passionate about Web Development, currently based in Sydney.
 
 <div align="center">
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=maxdu404
-&theme=transparent&show_icons=true" alt="max's GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=maxdu404&theme=transparent&show_icons=true" alt="max's GitHub Stats"/>
   </div>
   <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxdu404
-&theme=transparent&show_icons=true&layout=compact&card_width=467" alt="maxdu404
-'s Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxdu404&theme=transparent&show_icons=true&layout=compact&card_width=467" alt="maxdu404's Top Languages"/>
   </div>
 </div>
 
-![Views](https://komarev.com/ghpvc/?username=maxdu404&style=flat&color=023373)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=maxdu404&style=flat&color=023373" alt="views"/>
+</p>
 
 <h2 align="center"> 💻 Technical Skills </h2>
 

@@ -113,9 +113,9 @@ I’m a developer passionate about Web Development, currently based in Sydney.
     <img src="https://img.shields.io/badge/Linkedin-Connect-blue?style=for-the-badge&logo=linkedin&color=0A66C2" alt="LinkedIn Badge">
   </a>
   &nbsp;
-  <a href="mailto:max1145141@gmail.com">
-    <img src="https://img.shields.io/badge/Email-max1145141@gmail.com?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335" alt="Email Badge"/>
-  </a>
+ <a href="mailto:max1145141@gmail.com">
+  <img src="https://img.shields.io/badge/Email%20Me-max1145141@gmail.com?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335" alt="Email Badge"/>
+</a>
   &nbsp;
   <a href="">
     <img src="https://img.shields.io/badge/Website-Max's%20Blog-blue?style=for-the-badge&logo=blogger&logoColor=white&color=black" alt="Website Badge">

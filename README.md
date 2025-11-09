@@ -117,7 +117,7 @@ I’m a developer passionate about Web Development, currently based in Sydney.
     <img src="https://img.shields.io/badge/Email-max1145141@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335" alt="Email Badge 2">
   </a>
   &nbsp;
-  <a href="https://maxdu404.github.io/">
+  <a href="">
     <img src="https://img.shields.io/badge/Website-Max's%20Blog-blue?style=for-the-badge&logo=blogger&logoColor=white&color=black" alt="Website Badge">
   </a>
 </p>

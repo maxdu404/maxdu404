@@ -114,7 +114,7 @@ I’m a developer passionate about Web Development, currently based in Sydney.
   </a>
   &nbsp;
  <a href="mailto:max1145141@gmail.com">
-  <img src="https://img.shields.io/badge/Email%20Me-max1145141@gmail.com?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335" alt="Email Badge"/>
+  <img src="https://img.shields.io/badge/Email%20Me-max1145141%40gmail.com?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335" alt="Email Badge"/>
 </a>
   &nbsp;
   <a href="">
